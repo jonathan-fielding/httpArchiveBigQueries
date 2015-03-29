@@ -3,9 +3,9 @@ When putting together my new talk for Future of Web Deisgn I needed to get some 
 
 So far this repo has queries for the following:
 
-* renderStart
-* visualComplete
-* onContentLoaded
+* [renderStart](https://github.com/jonathan-fielding/httpArchiveBigQueries/blob/master/renderStart.md)
+* [visualComplete](https://github.com/jonathan-fielding/httpArchiveBigQueries/blob/master/visualComplete.md)
+* [onContentLoaded](https://github.com/jonathan-fielding/httpArchiveBigQueries/blob/master/onContentLoaded.md)
 
 ##Licence
 
