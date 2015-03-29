@@ -7,6 +7,8 @@ So far this repo has queries for the following:
 * [visualComplete](https://github.com/jonathan-fielding/httpArchiveBigQueries/blob/master/visualComplete.md)
 * [onContentLoaded](https://github.com/jonathan-fielding/httpArchiveBigQueries/blob/master/onContentLoaded.md)
 
+Want to know how to use these queries, then checkout [Ilya Grigorik's blog post](https://www.igvita.com/2013/06/20/http-archive-bigquery-web-performance-answers/).
+
 ##Licence
 
 The MIT License (MIT)
